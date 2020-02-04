@@ -6,7 +6,7 @@ https://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/nonuk/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="USA",MANOTO TV 
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",Iran International TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="USA",Iran International TV
 https://live.playstop.me/LS-63503-4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",IRINN
@@ -15,7 +15,7 @@ https://cdn1live.irib.ir/live-channels/smil:irinn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",IRIB TV3 HD
 https://cdn1live.irib.ir/live-channels/smil:tv3/playlist.m3u8?s=Xfqhsc1CMO4fT-UjV9XPXA&t=1580788412
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",RADIO JAVAN TV
+#EXTINF:-1 tvg-logo="https://www.radiojavan.com/images/default_fb.png" group-title="USA",RADIO JAVAN TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",PMC TV

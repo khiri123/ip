@@ -11344,8 +11344,8 @@ https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mQVMEoP.png" group-title="IRAN",IRIB TV4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yuxspFC.png" group-title="IRAN",IRIB TV3 (New!)
-https://livetv.persianleague.com/live/tv3/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/IRIB_TV3_LOGO.png" group-title="USA",IRIB TV3 HD
+https://cdn1live.irib.ir/live-channels/smil:tv3/playlist.m3u8?s=WUozGmWm9TkfirKcyhje0w&t=1580799184
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7Cx0fQ7.png" group-title="IRAN",IRIB TV5
 https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8

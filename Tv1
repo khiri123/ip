@@ -10,7 +10,7 @@ https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 https://live.playstop.me/LS-63503-4/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",IRINN
-https://cdn1live.irib.ir/live-channels/smil:irinn/playlist.m3u8?s=ptc9xc7I-alHXgffvCcjaQ&t=1580788865
+https://cdn1live.irib.ir/live-channels/smil:irinn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",IRIB TV3
 https://cdn1live.irib.ir/live-channels/smil:tv3/playlist.m3u8?s=Xfqhsc1CMO4fT-UjV9XPXA&t=1580788412

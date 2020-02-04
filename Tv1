@@ -1,7 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild
+#EXTINF:-1 tvg-logo="https://images.app.goo.gl/25mizYPjci3RF48dA" group-title="USA",Manoto Tv
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/nonuk/hls_mobile_3g_main/llnws/bbc_persian_tv.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+https://live.playstop.me/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+https://cdn1live.irib.ir/live-channels/smil:irinn/playlist.m3u8?s=ptc9xc7I-alHXgffvCcjaQ&t=1580788865
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+https://cdn1live.irib.ir/live-channels/smil:tv3/playlist.m3u8?s=Xfqhsc1CMO4fT-UjV9XPXA&t=1580788412
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+https://streaming.bittubeapp.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md5=k9FrkqygGl1Oy8MjonDPHA&expires=1580868570
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8

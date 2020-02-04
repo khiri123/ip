@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="USA",Nat Geo Wild
+https://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/nonuk/hls_mobile_3g_main/llnws/bbc_persian_tv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",National Geographic
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8

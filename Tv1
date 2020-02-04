@@ -9,8 +9,8 @@ https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/1200px-Iran_International.svg.png" group-title="USA",Iran International TV
 https://live.playstop.me/LS-63503-4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",IRINN
-https://cdn1live.irib.ir/live-channels/smil:irinn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/archive/a/a1/20170611215556%21IRINN_LOGO_IRIB.svg" group-title="USA",IRINN
+https://cdn1live.irib.ir/live-channels/smil:irinn/playlist.m3u8?s=cs5ZQGC-5dzA9o9RJ53Miw&t=1580799468
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/IRIB_TV3_LOGO.png" group-title="USA",IRIB TV3 HD
 https://cdn1live.irib.ir/live-channels/smil:tv3/playlist.m3u8?s=WUozGmWm9TkfirKcyhje0w&t=1580799184

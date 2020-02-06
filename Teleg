@@ -1,27 +1,23 @@
 #EXTM3U
-#EXTINF:-1,1HD Music
-http://195.18.23.20/play/3/index.m3u8
-#EXTINF:-1,Aris 24
-http://195.18.23.20/play/6/index.m3u8
-#EXTINF:-1,Bashkortostan24
-http://195.18.23.20/play/2/index.m3u8
-#EXTINF:-1,Dom Kino
-http://195.18.23.20/play/23/index.m3u8
-#EXTINF:-1,Kinosemya
-http://195.18.23.20/play/17/index.m3u8
-#EXTINF:-1,Matur TV
-http://195.18.23.20/play/1/index.m3u8
-#EXTINF:-1,Muzhskoe Kino
-http://195.18.23.20/play/15/index.m3u8
-#EXTINF:-1,Nat Geo
-http://195.18.23.20/play/18/index.m3u8
-#EXTINF:-1,Pobeda
-http://195.18.23.20/play/21/index.m3u8
-#EXTINF:-1,Salyam
-http://195.18.23.20/play/9/index.m3u8
-#EXTINF:-1,SongTV
-http://195.18.23.20/play/20/index.m3u8
-#EXTINF:-1,Vsya Ufa
-http://195.18.23.20/play/8/index.m3u8
-#EXTINF:-1,Россия HD
-http://195.18.23.20/play/11/index.m3u8
+#EXTINF:-1,beIN Sports1 HD
+http://45.137.149.194:25461/dada/dada/1
+#EXTINF:-1,beIN Sports2 HD
+http://45.137.149.194:25461/dada/dada/2
+#EXTINF:-1,RMC SPORTS 3 SD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/58
+#EXTINF:-1,RMC SPORT 3 HD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/63
+#EXTINF:-1,RMC SPORTS 3 FHD
+http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
+#EXTINF:-1,RMC SPORT 5 HD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/61
+#EXTINF:-1,RMC SPORT 5 FHD
+http://iptv7.premium-stv.com:25461/rmcsport5/2350888447/66
+#EXTINF:-1,SP:CTH_Stadium_6
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1624
+#EXTINF:-1,SP:CTH_Stadium_1
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1619
+#EXTINF:-1,SP:CTH_Stadium_2
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1620
+#EXTINF:-1,SP:CTH_Stadium_4
+http://universeiptv.com:8000/alexaiptv/hvsfw2yfgwu/1622

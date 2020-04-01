@@ -27,13 +27,13 @@ https://streaming.bittubeapp.com/BRJfxvDlyaXTF3GrxB1i/index.m3u8?md5=l92ieXdUicS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="USA",NAT GEO WILD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 
-#EXTINF:-1 tvg-logo=".png" group-title="Iran",Radio Iran
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cc/Radio_iran.png" group-title="Iran",Radio Iran
 http://cdn1.live.irib.ir:1935/channel-live/smil:r-iran/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" group-title="Iran",Radio Javan
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fa/6/64/%D8%B1%D8%A7%D8%AF%DB%8C%D9%88_%D8%AC%D9%88%D8%A7%D9%86_%D8%B5%D8%AF%D8%A7%DB%8C_%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C_%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%28%D9%84%D9%88%DA%AF%D9%88%29.png" group-title="Iran",Radio Javan
 http://s0.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8
 
-#EXTINF:-1 tvg-logo=".png" group-title="Iran",Radio Varzesh
+#EXTINF:-1 tvg-logo="" group-title="Iran",Radio Varzesh
 http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" group-title="Iran",Radio Fars

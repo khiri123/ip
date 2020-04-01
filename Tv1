@@ -37,6 +37,12 @@ http://s0.cdn1.iranseda.ir:1935/liveedge/radio-javan/playlist.m3u8
 http://s0.cdn1.iranseda.ir:1935/liveedge/radio-varzesh/playlist.m3u8
 
 #EXTINF:-1 tvg-logo=".png" group-title="Iran",Radio Fars
-altcdn.iranseda.ir:1935/channel-live/smil:r-fars/playlist.m3u8
+http://altcdn.iranseda.ir:1935/channel-live/smil:r-fars/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=".png" group-title="UAE",Radio Shoma 93.4
+http://ample-11.radiojar.com/rzcfw4cbsxquv?rj-ttl=5&rj-tok=AAABcSc0YL8ABjDWZzbpDlifjw
+
+#EXTINF:-1 tvg-logo=".png" group-title="Kuwait",Persian Quran Radio
+http://quraan.us:9936/;/;type=mp3
 
 

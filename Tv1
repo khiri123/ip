@@ -48,4 +48,55 @@ http://ample-11.radiojar.com/rzcfw4cbsxquv?rj-ttl=5&rj-tok=AAABcSc0YL8ABjDWZzbpD
 #EXTINF:-1 tvg-logo="https://alnajat.org.kw/wp-content/uploads/edc-main-logo@x23.png" group-title="Kuwait",Persian Quran Radio
 http://quraan.us:9936/;/;type=mp3
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xrebqxX.png" group-title="IRAN",iFilm
+https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmtv.smil/chunklist_w205801397_b944100_slen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EQ9W3Uc.png" group-title="IRAN",iFilm 2
+http://mn-nl.mncdn.com/ifilm/smil:ifilmfa2.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkgjeAg.png" group-title="IRAN",iFilm Arabic
+https://5a61de8ed719d.streamlock.net:1443/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DkgjeAg.png" group-title="IRAN",iFilm English
+http://mn-nl.mncdn.com/ifilm/smil:ifilmen.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0lOfHTI.png" group-title="IRAN",Iran-E-Farda TV (US)
+https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="IRAN",Iran Int'l (GB) (Opt-1)
+https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6qeC6rI.png" group-title="IRAN",Iran Int'l (GB) (Opt-2)
+https://live.playstop.me/LS-63503-4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JqADHyd.png" group-title="IRAN",Iranian Cinema Channel
+https://mn-nl.mncdn.com/ezcdn_icc/icc_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Cpym1hE.png" group-title="IRAN",IRIB Amoozesh
+https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g4Nok6x.png" group-title="IRAN",IRIB Nasim
+https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RM44bRq.png" group-title="IRAN",IRIB Ofogh
+https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MW6qXaV.png" group-title="IRAN",IRIB TV1
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/32QEykk.png" group-title="IRAN",IRIB TV2
+https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mQVMEoP.png" group-title="IRAN",IRIB TV4
+https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yuxspFC.png" group-title="IRAN",IRIB TV3
+https://livetv.persianleague.com/live/tv3/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Cx0fQ7.png" group-title="IRAN",IRIB TV5
+https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORRTf0P.png" group-title="IRAN",IRIB Varzesh
+https://livetv.persianleague.com/live/varzesh/chunks.m3u8
+
 
